@@ -81,7 +81,7 @@ You now have a full remote Swift development experience including IntelliSense a
 
 I’ve put together an example project showing how this works:
 
-https://github.com/ianpartridge/vscode-remote-try-swift
+[https://github.com/ianpartridge/vscode-remote-try-swift](https://github.com/ianpartridge/vscode-remote-try-swift)
 
 You should be able to install the extension into your VS Code, then clone this project and open it in VS Code and try it out!
 
